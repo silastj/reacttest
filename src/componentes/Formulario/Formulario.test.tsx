@@ -1,6 +1,6 @@
 import { render, screen} from "@testing-library/react";
 import React from "react";
-import Formulario from "../Formulario";
+import Formulario from "./Formulario";
 
 
 test('quando input está vazio, não add participantes',  () => {

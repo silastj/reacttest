@@ -1,6 +1,13 @@
 # Test Driven Development
 # Desenvolvimento orientado a testes
 
+# Piâmide de testes
+- Interface ( teste lento, o quanto mais alto mais lento)
+- Serviço ou Integração
+- Unidade ( teste mais rápido e barato)
+
+## Esse padrão de organização do teste é conhecido como AAA (Arrange, Act and Assert em inglês).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
